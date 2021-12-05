@@ -1,0 +1,25 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "description": "Data structures and algorithms using Javascript",
+  "main": "setup-linked-list-common.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zendy199x/Data-Structures-And-Algorithms-Using-Javascript.git"
+  },
+  "author": "Zendy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zendy199x/Data-Structures-And-Algorithms-Using-Javascript/issues"
+  },
+  "homepage": "https://github.com/zendy199x/Data-Structures-And-Algorithms-Using-Javascript#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "babel-jest": "^27.4.2",
+    "jest": "^27.4.3"
+  }
+}
