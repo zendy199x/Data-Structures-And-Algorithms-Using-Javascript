@@ -2,7 +2,7 @@
   "name": "data-structure",
   "version": "1.0.0",
   "description": "Data structures and algorithms using Javascript",
-  "main": "setup-linked-list-common.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest --coverage"
   },
