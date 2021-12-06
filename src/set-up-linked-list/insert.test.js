@@ -1,4 +1,4 @@
-import { createLinkedList, insertTail } from './setup-linked-list-insert';
+import { createLinkedList, insertTail } from './insert';
 
 describe('insertTail(data)', () => {
   it('should return head with one node if list is empty', () => {

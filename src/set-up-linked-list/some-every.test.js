@@ -1,4 +1,4 @@
-import { createLinkedList } from './setup-linked-list-some-every';
+import { createLinkedList } from './some-every';
 
 describe('some(isValidFn)', () => {
   it('should return false if list is empty', () => {

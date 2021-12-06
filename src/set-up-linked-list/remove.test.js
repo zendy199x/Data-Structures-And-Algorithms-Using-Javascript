@@ -1,4 +1,4 @@
-import { createLinkedList } from './setup-linked-list-remove';
+import { createLinkedList } from './remove';
 
 describe('removeHead()', () => {
   it('should return null if list is empty', () => {
